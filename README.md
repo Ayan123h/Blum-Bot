@@ -1,6 +1,8 @@
 # BlumBot
 🖱️ clicker for [https://t.me/BlumCryptoBot](https://t.me/BlumCryptoBot/app?startapp=ref_oDxBEC33Wa)
 
+........ work game play.........
+
 ## Recommendation before use
 # 🔥🔥 Use PYTHON 3.10 🔥🔥
 
