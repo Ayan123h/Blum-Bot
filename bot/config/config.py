@@ -16,7 +16,7 @@ class Settings(BaseSettings):
     USE_REF: bool = False
     REF_ID: str = 'ref_47TAs6uYsf'
 
-    USE_PROXY_FROM_FILE: bool = False
+    USE_PROXY_FROM_FILE: bool = True
 
 
 settings = Settings()
